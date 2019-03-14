@@ -1,4 +1,4 @@
-# 3d_box@meteo
+# @meteo
 
 > A Vue.js project
 
